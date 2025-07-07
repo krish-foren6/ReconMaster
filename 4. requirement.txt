@@ -1,0 +1,19 @@
+Modules used in the tool:
+
+- Built-in Python modules (no need to install): argparse, subprocess, shutil, webbrowser, os
+- External modules (install via pip): colorama, rich, pyfiglet
+
+----
+
+### Python Dependencies that required to install
+
+colorama==0.4.6
+rich==13.3.4
+pyfiglet==0.8.post1
+
+```bash
+pip install -r requirements.txt
+
+
+
+
