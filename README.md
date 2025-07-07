@@ -36,7 +36,7 @@ Built with Python, ReconMaster integrates popular tools like `nmap`, `amass`, `a
   pip install colorama rich pyfiglet
   
 **###Clone the Repository:**
-git clone https://github.com/yourusername/ReconMaster.git
+git clone https://github.com/krish-foren6/ReconMaster.git
 cd ReconMaster
 **###Run the Tool**
 python3 reconmaster.py
